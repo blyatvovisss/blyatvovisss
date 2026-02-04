@@ -35,17 +35,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blyatvovisss&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Your GitHub stats" /> 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blyatvovisss&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Your most used languages" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
